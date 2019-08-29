@@ -25,7 +25,7 @@ public class Equipo implements Serializable{
         this.ciudad = ciudad;
     }
 
-
+   
     public String getNombre() {
         return nombre;
     }
